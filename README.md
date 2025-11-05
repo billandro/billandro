@@ -10,7 +10,7 @@
 - 🌱 Learning **Artificial Intelligence**, exploring its applications in real-world systems  
 - 💬 Ask me about **Software Engineering, AI, Business Analysis, and Strategic Thinking**  
 - 📚 Avid reader of **non-fiction**, particularly **neuroscience, sociology, and psychology**  
-- ⚡ Fun fact: I love diving deep to understand **how and why things work the way they do**
+- ⚡ Fun fact: I'm the guy who can help pick your brain.
 
 ---
 
@@ -33,15 +33,15 @@
 
 #### 📌 Pinned Repositories
 <!-- Replace these links with your actual top repos -->
-- [Repo 1](https://github.com/YOUR-USERNAME/REPO1) – Short description of project  
-- [Repo 2](https://github.com/YOUR-USERNAME/REPO2) – Short description of project  
-- [Repo 3](https://github.com/YOUR-USERNAME/REPO3) – Short description of project  
+- [Skillsync](https://github.com/billandro/skillsync) – Short description of project  
+- [GridPortfolio](https://github.com/billandro/My_First_Portfolio) – Short description of project  
+- [Library](https://github.com/billandro/alx-book-library-capstone) – Short description of project  
 
 ---
 
 ### 🎵 Now Playing
 <!-- Spotify widget, replace YOUR_SPOTIFY_ID -->
-[![Spotify](https://spotify-now-playing.vercel.app/api/spotify?user=Bill Qubeka)](https://open.spotify.com/user/Bill Qubeka)
+[![Spotify](https://spotify-now-playing.vercel.app/api/spotify?user=Bill%20Qubeka)](https://open.spotify.com/user/Bill%20Qubeka)
 
 ---
 
