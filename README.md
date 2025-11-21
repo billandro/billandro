@@ -10,7 +10,7 @@
 - 🌱 Learning **Artificial Intelligence**, exploring its applications in real-world systems  
 - 💬 Ask me about **Software Engineering, AI, Business Analysis, and Strategic Thinking**  
 - 📚 Avid reader of **non-fiction**, particularly **neuroscience, sociology, and psychology**  
-- ⚡ Fun fact: I'm the guy who can help pick your brain.
+- ⚡ Fun fact: Artificial Intelligence is one of the great feats of humankind!
 
 ---
 
@@ -44,8 +44,8 @@
 ### 🌟 Projects & Focus Areas
 - Systems Integration & Loadshedding Solutions (Eskom)  
 - AI & Machine Learning experiments  
-- Weather alert application (Momentum insuarance)  
-- Software Engineering projects showcasing code quality & architecture  
+- Asynchronus communication between micro-services 
+- Software Engineering projects showcasing code quality & architecture
 
 #### 📌 Pinned Repositories
 <!-- Replace these links with your actual top repos -->
