@@ -24,7 +24,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=swagger&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-00BFFF?style=flat&logo=postman&logoColor=white)
 ![Socket Programming](https://img.shields.io/badge/Socket_Programming-6A1B9A?style=flat&logo=socketdotio&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -51,8 +50,9 @@
 #### 📌 Pinned Repositories
 <!-- Replace these links with your actual top repos -->
 - [Skillsync](https://github.com/billandro/skillsync) – This is a booking system. Where I connect mentors with peers, and peers with peers.
-- [GridPortfolio](https://github.com/billandro/My_First_Portfolio) – I built a portfolio dashboard using css grid and vanilla javascript. 
+- [GridPortfolio](https://github.com/billandro/My_First_Portfolio) – I built a portfolio dashboard using HTML5, CSS grid, and vanilla javascript. 
 - [Library](https://github.com/billandro/alx-book-library-capstone) – A dynamic and user friendly library store built using react, TailwindCSS, and javscript to have a look at some of your favourite books.
+- [E-commerce system](https://github.com/billandro/Ecommerce_system) - This project is built using micro-services architecture, with ActiveMQ enabling asynchronous, decoupled communication between services. It supports a full stock-control workflow while demonstrating a scalable and well-integrated system design.
 
 ---
 
