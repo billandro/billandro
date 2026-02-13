@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Bill Qubeka
 
-🎓 BSc Student | Software Engineer | Applied AI & Business Intelligence Enthusiast  
+🎓 BSc Student | Software Engineer | AI & Business Intelligence Enthusiast  
 🌍 Based in South Africa  
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on a **Systems Integration project** focused on **Eskom and Loadshedding solutions**  
+- 🔭 Currently working on a **Systems Integration project** focused on an **Internal stockcontrol system**  
 - 🌱 Learning **Artificial Intelligence**, exploring its applications in real-world systems  
 - 💬 Ask me about **Software Engineering, AI, Business Analysis, and Strategic Thinking**  
 - 📚 Avid reader of **non-fiction**, particularly **neuroscience, sociology, and psychology**  
