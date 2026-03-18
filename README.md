@@ -65,9 +65,13 @@
 
 ---
 
-###  Now Playing
+###  Favourite Books
 <!-- Spotify widget, replace YOUR_SPOTIFY_ID -->
-[![Spotify](https://spotify-now-playing.vercel.app/api/spotify?user=Bill%20Qubeka)](https://open.spotify.com/user/Bill%20Qubeka)
+- Mastery by Robert Greene
+- The Laws of Human Nature by Robert Greene
+- Meditations by Marcus Aurelius
+- King Warrior Magician Lover by Robert Moore & Douglas Gillette
+- As a man thinketh by James Allen (This is an honourable mention)
 
 ---
 
