@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Bill Qubeka
 
-🎓 BSc Student | Software Engineer | AI & Business Intelligence Enthusiast  
-🌍 Based in South Africa  
+ BSc Student | Junior Automation Engineer | AI & Business Intelligence Enthusiast  
+ Based in South Africa  
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on a **Systems Integration project** focused on an **Internal stockcontrol system**  
-- 🌱 Learning **Artificial Intelligence**, exploring its applications in real-world systems  
-- 💬 Ask me about **Software Engineering, AI, Business Analysis, and Strategic Thinking**  
-- 📚 Avid reader of **non-fiction**, particularly **neuroscience, sociology, and psychology**  
-- ⚡ Fun fact: Artificial Intelligence is one of the great feats of humankind!
+###  About Me
+-  Currently working on a **Systems Integration project** focused on an **Internal stock-control system**  
+-  Learning **Artificial Intelligence**, exploring its applications in real-world systems  
+-  Ask me about **Software Engineering, AI, Business Intelligence, and Strategic Thinking**  
+-  Avid reader of **non-fiction**, particularly **neuroscience, sociology, and psychology**  
+-  Fun fact: Artificial Intelligence is one of the great feats of humankind!
 
 ---
 
@@ -38,30 +38,39 @@
 ![Spring&nbsp;Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-635BFF?style=flat&logo=n8n&logoColor=white)
+![SQL&nbsp;Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-FFFFF?style=flat&logo=putty&logoColor=black)
+![WinSCP](https://img.shields.io/badge/WinSCP-4B4B4B?style=flat&logo=winscp&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/Apache_ActiveMQ-E8532C?style=flat&logo=apache-activemq&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-3D2B1F?style=flat&logo=thymeleaf&logoColor=white)
+
 
 ---
 
-### 🌟 Projects & Focus Areas
+###  Projects & Focus Areas
 - Systems Integration & Loadshedding Solutions (Eskom)  
 - AI & Machine Learning experiments  
 - Asynchronus communication between micro-services 
 - Software Engineering projects showcasing code quality & architecture
 
-#### 📌 Pinned Repositories
+####  Pinned Repositories
 <!-- Replace these links with your actual top repos -->
 - [Skillsync](https://github.com/billandro/skillsync) – This is a booking system. Where I connect mentors with peers, and peers with peers.
 - [GridPortfolio](https://github.com/billandro/My_First_Portfolio) – I built a portfolio dashboard using HTML5, CSS grid, and vanilla javascript. 
 - [Library](https://github.com/billandro/alx-book-library-capstone) – A dynamic and user friendly library store built using react, TailwindCSS, and javscript to have a look at some of your favourite books.
-- [E-commerce system](https://github.com/billandro/Ecommerce_system) - This project is built using micro-services architecture, with ActiveMQ enabling asynchronous, decoupled communication between services. It supports a full stock-control workflow while demonstrating a scalable and well-integrated system design.
+- [StockControlSystem](https://github.com/billandro/Ecommerce_system) - This project is built using micro-services architecture, with ActiveMQ enabling asynchronous, decoupled communication between services. It supports a full stock-control workflow while demonstrating a scalable and well-integrated system design.
 
 ---
 
-### 🎵 Now Playing
+###  Now Playing
 <!-- Spotify widget, replace YOUR_SPOTIFY_ID -->
 [![Spotify](https://spotify-now-playing.vercel.app/api/spotify?user=Bill%20Qubeka)](https://open.spotify.com/user/Bill%20Qubeka)
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/bill-qubeka/)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:billqubeka@gmail.com)
